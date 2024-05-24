@@ -5,7 +5,8 @@ Predict the age of abalone from physical measuremnets only
 The manual process of determining the age of an abalone can be a tedious and time-comsuming process. It involves cutting the shell through the cone, staining it, \
 and counting the number of rings through a microscope
 #### __Solution__
-Create a machine learning algorithm to predict the age of an abalone from physical measurments only
+Create a machine learning algorithm to predict the age of an abalone from physical measurments only \
+Five different models were used to determine the best performing solution
 ## Dataset Information
 The dataset used in this project was downloaded from [here](https://archive.ics.uci.edu/dataset/1/abalone)
 - 8 features
